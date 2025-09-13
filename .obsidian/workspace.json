@@ -39,8 +39,23 @@
               "icon": "lucide-file",
               "title": "תכנון מסלול ראשוני 9.9"
             }
+          },
+          {
+            "id": "fdac8314373e9eed",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -161,13 +176,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ideas/world cup 2026/לוח טיסות פוטנציאלי 10.9.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of לוח טיסות פוטנציאלי 10.9"
+              "title": "Outline"
             }
           },
           {
@@ -210,13 +224,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b7e5948a7eba2326",
+  "active": "fdac8314373e9eed",
   "lastOpenFiles": [
+    "ideas/world cup 2026/לוח טיסות פוטנציאלי 10.9.md",
+    "git",
     "ideas/world cup 2026/תכנון מסלול ראשוני 9.9.md",
     "Templates/Stadium.md",
     "Templates/Person.md",
     "Templates/Game.md",
-    "ideas/world cup 2026/לוח טיסות פוטנציאלי 10.9.md",
     "games/group stage/Game 2.md",
     "games/knockout/Quarter final.md",
     "places/mexico/מונטריי.md",
@@ -255,7 +270,6 @@
     "places/mexico",
     "ideas/world cup 2026",
     "resources",
-    "daily",
-    "Templates"
+    "daily"
   ]
 }
