@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "3ee16fcdc3b8467f",
+        "id": "458babfdf34713de",
         "type": "tabs",
         "children": [
           {
-            "id": "b7e5948a7eba2326",
+            "id": "d89164dbbd486efc",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "ideas/world cup 2026/לוח טיסות פוטנציאלי 10.9.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "pinned": true,
@@ -24,16 +24,15 @@
             }
           },
           {
-            "id": "f5b8cec53aa325e8",
+            "id": "533431121b5a0885",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "ideas/world cup 2026/תכנון מסלול ראשוני 9.9.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": false
+                "mode": "source",
+                "source": false
               },
               "pinned": true,
               "icon": "lucide-file",
@@ -210,12 +209,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f5b8cec53aa325e8",
+  "active": "533431121b5a0885",
   "lastOpenFiles": [
-    "main-obsidian",
-    "ideas/world cup 2026/לוח טיסות פוטנציאלי 10.9.md",
     "ideas/world cup 2026/תכנון מסלול ראשוני 9.9.md",
+    "ideas/world cup 2026/לוח טיסות פוטנציאלי 10.9.md",
+    "games/group stage/Game 1.md",
     "git",
+    "main-obsidian",
     "GITT",
     "gitt",
     "Templates/Stadium.md",
@@ -245,7 +245,6 @@
     "places/לונדון.md",
     "מקסיקו סיטי.md",
     "games/knockout/Round of 16.md",
-    "games/group stage/Game 1.md",
     "games/knockout",
     "games/group stage",
     "games",
