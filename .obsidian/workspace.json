@@ -39,23 +39,9 @@
               "icon": "lucide-file",
               "title": "תכנון מסלול ראשוני 9.9"
             }
-          },
-          {
-            "id": "fdac8314373e9eed",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -224,13 +210,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fdac8314373e9eed",
+  "active": "f5b8cec53aa325e8",
   "lastOpenFiles": [
+    "main-obsidian",
+    "ideas/world cup 2026/לוח טיסות פוטנציאלי 10.9.md",
+    "ideas/world cup 2026/תכנון מסלול ראשוני 9.9.md",
+    "git",
     "GITT",
     "gitt",
-    "ideas/world cup 2026/לוח טיסות פוטנציאלי 10.9.md",
-    "git",
-    "ideas/world cup 2026/תכנון מסלול ראשוני 9.9.md",
     "Templates/Stadium.md",
     "Templates/Person.md",
     "Templates/Game.md",
@@ -269,8 +256,6 @@
     "resources/Pasted image 20250910004510.png",
     "resources/Pasted image 20250910004146.png",
     "places/usa",
-    "places/mexico",
-    "ideas/world cup 2026",
-    "resources"
+    "places/mexico"
   ]
 }
