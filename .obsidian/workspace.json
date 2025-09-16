@@ -38,9 +38,23 @@
               "icon": "lucide-file",
               "title": "תכנון מסלול ראשוני 9.9"
             }
+          },
+          {
+            "id": "3d9d8e06cd47b648",
+            "type": "leaf",
+            "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/appearance.json",
+                "bFile": ".obsidian/appearance.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: appearance.json"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -175,8 +189,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-ghost",
+              "title": "calendar"
             }
           },
           {
@@ -209,7 +223,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "533431121b5a0885",
+  "active": "3d9d8e06cd47b648",
   "lastOpenFiles": [
     "ideas/world cup 2026/תכנון מסלול ראשוני 9.9.md",
     "ideas/world cup 2026/לוח טיסות פוטנציאלי 10.9.md",
